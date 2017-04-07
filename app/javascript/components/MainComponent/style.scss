@@ -1,0 +1,9 @@
+@import '../../../styles/main.scss';
+.main-component{
+  position: relative;
+  border: 1px solid black;
+  box-shadow: 1px 0px 15px 10px #828a8e;
+  .wrapper{
+    position: relative;
+  }
+}

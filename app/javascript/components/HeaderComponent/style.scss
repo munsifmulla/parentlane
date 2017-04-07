@@ -1,0 +1,21 @@
+@import '../../../styles/main.scss';
+
+.header{
+  position: relative;
+  height:72px;
+  width:100%;
+  background: $theme_color;
+
+  .logo{
+    padding:15px 0;
+    img{
+      &.logo{
+        width:13px;
+      }
+      &.text{
+        width:108px;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,12 @@
+@import '../../../styles/main.scss';
+
+
+.image{
+  width:150px;
+  height:150px;
+  background: url('/app/images/AAE.jpg') no-repeat center;
+
+  &.grey{
+    border:1px solid red;
+  }
+}

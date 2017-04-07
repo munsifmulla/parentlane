@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+launch.json
+.DS_Store
+**/.DS_Store
+/.idea
+public
